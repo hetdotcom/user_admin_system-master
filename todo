@@ -1,0 +1,13 @@
+1. Admin
+2. Create user management (create, list(search, sort), delete) (Admin)
+3. User (signup/Signin)  (User fields - username, email, mobile, password, gender, profile photo)
+4. Edit profile, logout, change password. Forgot password (email)
+5. User can post the blog (title, description, created date, publish date, cover image, like button)
+6. Blog list (published blog list)
+7. Admin can list all the users blog (can filter if its published or not)
+8. Dashboard (like wise dashboard user list, admin)
+
+ Configuration - eslint, 
+ NPM -express, mongoose
+Send me gitlab link personally 
+Heroku deploy
